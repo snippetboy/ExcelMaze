@@ -7,7 +7,7 @@ There is a huge amount of web resources for doing that. Here's another one.
 This repository provides two files:
 
 - *ExcelMaze.xlsm* - Excel workbook with embedded macros
-- *ExcelMaze.vba* - Macros in a separate file (you dont't need it)
+- *ExcelMaze.vba* - Macros in a separate file (you don't need it)
 
 ## Usage
 
